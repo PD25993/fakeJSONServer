@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: libs/dom4j-1.6.1.jar libs/ojdbc6.jar libs/poi-3.9-20121203.jar libs/poi-ooxml-3.9-20121203.jar libs/poi-ooxml-schemas-3.9-20121203.jar libs/xmlbeans-2.3.0.jar
+Sealed: true
+Main-Class: com.project.ImportDataFromExcelToDBUI.ImportDataFromExcelToDBSUI
